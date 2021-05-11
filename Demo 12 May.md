@@ -7,8 +7,8 @@
 
 - Perform customer filtering actions, compare it with the view of the administrator account to point out how the privileges policy work.
 
-- From the administrative account, create an employee account with the name `Demo 2`. This account should be in the same company and in *different* team with the `Demo 1` account.
-- Login to `Demo 2`, then perform searching a customer that assigned to `Demo 1`. The result should be empty due to `Demo 2` has no privileges on that customer.    
+- ~~~From the administrative account, create an employee account with the name `Demo 2`. This account should be in the same company and in *different* team with the `Demo 1` account.
+- ~~~Login to `Demo 2`, then perform searching a customer that assigned to `Demo 1`. The result should be empty due to `Demo 2` has no privileges on that customer.    
 
 
 CRM:
