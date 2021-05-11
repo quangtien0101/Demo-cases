@@ -19,7 +19,10 @@ CRM:
 
 - Now we want to have both of them to be on the same sale team, and demonstrate the privileges that team members have on their team's opportunities:
 	- From the Administrative account change the sale team of account `Demo 2` to the same team of `Demo 1`
-	- From `Demo 2` manage the cu
+	- From `Demo 2` manage opportunities, double check with the the view from `Demo 1`
+	-  
 
 
 Email marketing:
+- Standard convert emails from listview inside contacts and CRM. (Like what we have done last Saturday)
+- 
